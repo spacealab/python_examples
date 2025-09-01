@@ -1,0 +1,1 @@
+print("Hello all \nWelcome to python programming \n]]Let's learn python")
